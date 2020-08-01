@@ -1,0 +1,7 @@
+Running: xsim.dir/snake_top_behav/xsimk.exe -simmode gui -wdb snake_top_behav.wdb -simrunnum 0 -socket 56637
+Design successfully loaded
+Design Loading Memory Usage: 10748 KB (Peak: 10748 KB)
+Design Loading CPU Usage: 61 ms
+Simulation completed
+Simulation Memory Usage: 12892 KB (Peak: 12892 KB)
+Simulation CPU Usage: 92 ms

@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Color_Snake.ip_user_files/ipstatic/src/ClockGen.vhd" \
+"../../../../Color_Snake.ip_user_files/ipstatic/src/SyncAsync.vhd" \
+"../../../../Color_Snake.ip_user_files/ipstatic/src/SyncAsyncReset.vhd" \
+"../../../../Color_Snake.ip_user_files/ipstatic/src/DVI_Constants.vhd" \
+"../../../../Color_Snake.ip_user_files/ipstatic/src/OutputSERDES.vhd" \
+"../../../../Color_Snake.ip_user_files/ipstatic/src/TMDS_Encoder.vhd" \
+"../../../../Color_Snake.ip_user_files/ipstatic/src/rgb2dvi.vhd" \
+"../../../../Color_Snake.srcs/sources_1/ip/rgb2dvi_0/sim/rgb2dvi_0.vhd" \
+
+# Do not sort compile order
+nosort
